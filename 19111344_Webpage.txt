@@ -1,0 +1,254 @@
+<html lang="en">
+ <head>
+  <title>
+   Name : - L Prathyusha (19111344), WSDA
+  </title>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <style>
+   body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+  </style>
+ </head>
+ <body bgcolor="E6E6FA">
+  <h1>
+   Name : - L Prathyusha (19111344), WSDA
+  </h1>
+  <h1>
+   Heading, paragraph, image (gif), background colour, Table, List
+  </h1>
+  <img alt="Web Scraping" height="317" src="C:\Users\Prathyu Lachireddy\Desktop\Assignment\i.jpeg" width="480"/>
+  <img alt="Web Scraping" height="317" src="C:\Users\Prathyu Lachireddy\Desktop\Assignment\p.gif" width="480"/>
+  <img alt="Web Scraping" height="317" src="C:\Users\Prathyu Lachireddy\Desktop\Assignment\n.jpeg" width="480"/>
+  <style>
+   .city {
+  background-color: DarkSlateGray;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+  </style>
+  <div class="city">
+   <h2>
+    BIOGRAPHY
+   </h2>
+   <p>
+    I am L Prathyusha. i am pursuing my undergraduate from Christ Universtiy lavasa. i really do enjoy dancing, doing art works.
+and i am doing BBA (Business Analytics) and i would like to talk about the importance of analytics,
+Analytics allow you to quantify the effects of making a change to your marketing strategy,
+ and that's invaluable to the process of improving and optimizing online marketing campaigns.
+ The biggest benefit of utilizing proper analytics is being able to identify strengths and weaknesses.
+For example, letâ€™s say you run a blog for your car detailing business. Youâ€™re just starting out, and arenâ€™t sure what kinds of posts will bring you the most traffic, or provide the most value to your readers.
+If youâ€™re using analytics, youâ€™ll be able to measure which blog posts attract the most traffic, which get the least traffic, which have a high bounce rate, a low bounce rate, and so on. It will be easy to tell which blog posts are performing better or worse than others.
+Key idea is to collect data about the organization and use them to improve operations. Raw form of data is not of any use.If you are trying to bring any significant improvement in your business, then analytics is your best bet to bring about an informed transformation.
+   </p>
+  </div>
+  <h1>
+   Hobbies: -
+  </h1>
+  <img alt="Web Scraping" height="200" src="C:\Users\Prathyu Lachireddy\Desktop\Assignment\HEADER.gif" width="600"/>
+  <ul>
+   <li>
+    Dancing
+   </li>
+   <li>
+    Listening to music
+   </li>
+   <li>
+    Art
+   </li>
+   <li>
+    Traveling
+   </li>
+   <li>
+    Playing
+   </li>
+   <li>
+    Craft
+   </li>
+  </ul>
+  <style>
+   table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+  </style>
+  <h2>
+   HTML Table - on headquarters of companies
+  </h2>
+  <table>
+   <tbody>
+    <tr>
+     <th>
+      S no
+     </th>
+     <th>
+      Company
+     </th>
+     <th>
+      Country
+     </th>
+     <th>
+      Sector
+     </th>
+    </tr>
+    <tr>
+     <td>
+      1
+     </td>
+     <td>
+      Google
+     </td>
+     <td>
+      USA
+     </td>
+     <th>
+      Infomation Technology
+     </th>
+    </tr>
+    <tr>
+     <td>
+      2
+     </td>
+     <td>
+      Infosys
+     </td>
+     <td>
+      India
+     </td>
+     <th>
+      Infomation technology
+     </th>
+    </tr>
+    <tr>
+     <td>
+      3
+     </td>
+     <td>
+      WISE
+     </td>
+     <td>
+      Italy
+     </td>
+     <th>
+      Medical
+     </th>
+    </tr>
+    <tr>
+     <td>
+      4
+     </td>
+     <td>
+      Tesla
+     </td>
+     <td>
+      USA
+     </td>
+     <th>
+      Automobile
+     </th>
+    </tr>
+    <tr>
+     <td>
+      5
+     </td>
+     <td>
+      ECARX
+     </td>
+     <td>
+      China
+     </td>
+     <th>
+      Automotive
+     </th>
+    </tr>
+    <tr>
+     <td>
+      6
+     </td>
+     <td>
+      Prada
+     </td>
+     <td>
+      Italy
+     </td>
+     <th>
+      Fashion
+     </th>
+    </tr>
+    <tr>
+     <td>
+      7
+     </td>
+     <td>
+      Cisco systems inc
+     </td>
+     <td>
+      USA
+     </td>
+     <th>
+      Computers and electronics
+     </th>
+    </tr>
+    <tr>
+     <td>
+      8
+     </td>
+     <td>
+      Goldman sachs
+     </td>
+     <td>
+      USA
+     </td>
+     <th>
+      Financial services
+     </th>
+    </tr>
+    <tr>
+     <td>
+      9
+     </td>
+     <td>
+      PriceWater Coopers
+     </td>
+     <td>
+      USA
+     </td>
+     <th>
+      Financial services
+     </th>
+    </tr>
+    <tr>
+     <td>
+      10
+     </td>
+     <td>
+      Sun pharma
+     </td>
+     <td>
+      India
+     </td>
+     <th>
+      pharmaceutical
+     </th>
+    </tr>
+   </tbody>
+  </table>
+  <a href="default.asp">
+   <img alt="HTML tutorial" src="C:\Users\Prathyu Lachireddy\Desktop\Assignment\o.gif" style="width:100px;height:100px;"/>
+  </a>
+ </body>
+</html>
